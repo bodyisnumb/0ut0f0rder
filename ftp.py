@@ -64,4 +64,5 @@ if __name__ == "__main__":
     get_list()
     size_check()
     grab_file()
-    place_file()
+#    place_file()
+    load_to_db_by_name()
